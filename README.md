@@ -27,7 +27,7 @@ Welcome to the Photo Reader GUI project! This project provides a simple Graphica
 4. **Set Tesseract Path:** After installing Tesseract, set the Tesseract executable path in the code (line 17) to the location where Tesseract is installed on your system.
 
 5. **Run the Application:** Navigate to the project directory and run the following command:
-> ```python photo_reader.py```
+> ```python app.py```
 
 6. **Select Image:** Click on the "Select Image" button to choose the image file from which you want to extract text.
 
@@ -43,6 +43,6 @@ This project was inspired by the need for a simple tool to extract text from ima
 
 ## Contact:
 
-For any inquiries or support, feel free to contact the project maintainer [here](mailto:example@example.com).
+For any inquiries or support, feel free to contact the project maintainer [here](mailto:iliakeshavarz23@gmail.com).
 
 **Effortlessly extract text from images with the Photo Reader GUI!**
